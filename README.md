@@ -134,7 +134,7 @@ if __name__ == "__main__":
 3.Recommendations suggest next steps based on agreement level
 
 
-# #Example Output:
+## Example Output:
 ```
 OpenAI Response:
  AI in healthcare will revolutionize diagnostics through advanced imaging analysis... 
